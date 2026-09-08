@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788621746779,
+      "tag": "0000_black_omega_flight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788622029715,
+      "tag": "0001_first_otto_octavius",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788624831223,
+      "tag": "0002_mysterious_madelyne_pryor",
+      "breakpoints": true
+    }
+  ]
+}
